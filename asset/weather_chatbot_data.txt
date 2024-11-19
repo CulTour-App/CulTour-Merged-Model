@@ -1,0 +1,58 @@
+
+[Input]
+Mostly rainy
+Mostly rainy
+Mostly rainy
+Mostly rainy
+Mostly rainy
+Mostly rainy
+Mostly rainy
+Mostly rainy
+Mostly rainy
+Mostly sunny
+Mostly sunny
+Mostly sunny
+Mostly sunny
+Mostly sunny
+Mostly sunny
+Mostly sunny
+Mostly sunny
+Mostly sunny
+Partly rainy
+Partly rainy
+Partly rainy
+Partly rainy
+Partly rainy
+Partly rainy
+Partly rainy
+Partly rainy
+Partly rainy
+
+[Output]
+[START] Bring a raincoat, umbrella, and waterproof boots ☔. [END]
+[START] Rainy days ahead! Keep dry with a raincoat and waterproof shoes 🌧️. [END]
+[START] It's wet outside! A sturdy umbrella is your best friend today ☂️. [END]
+[START] Pack rain gear: raincoat, waterproof pants, and boots 🌧️. [END]
+[START] Rainy weather calls for waterproof accessories and a cheerful attitude! ☔ [END]
+[START] Expect rain throughout the day. Stay prepared with water-resistant clothing! 🌧️ [END]
+[START] Frequent rain showers predicted. Carry a strong umbrella and boots ☔. [END]
+[START] Stay dry! Waterproof gear is essential for the rainy forecast 🌧️. [END]
+[START] Don't forget your raincoat and waterproof backpack. Keep your gadgets safe! ☔. [END]
+[START] Sunny skies ahead! Don't forget your sunscreen 🌞. [END]
+[START] It's a bright day! Pack your sunglasses and enjoy the sunshine 😎. [END]
+[START] Clear skies and sunshine! Lightweight clothing is the way to go 🌅. [END]
+[START] Sunny weather! Remember to stay hydrated and use SPF 🌞. [END]
+[START] Warm and sunny! Sunglasses, sunscreen, and a hat should do the trick 🌞. [END]
+[START] Expect sunny weather all day. Lightweight, breathable clothes are ideal! ☀️ [END]
+[START] It's going to be sunny! Don't forget your cap and plenty of water 🌞. [END]
+[START] Perfect weather for outdoor activities. Enjoy the sunshine but stay protected 🌞. [END]
+[START] A beautiful sunny day! Comfortable shoes and sunscreen are recommended 🌅. [END]
+[START] A mix of rain and shine! Pack a light rain jacket 🌦. [END]
+[START] Expect occasional showers. A foldable umbrella might come in handy 🌦. [END]
+[START] Mixed weather today! Carry a light jacket and sunglasses 🌤️. [END]
+[START] Partly rainy! Be prepared for unexpected drizzles with an umbrella 🌦. [END]
+[START] Some rain but also sunshine! Dress in layers for changing weather 🌦. [END]
+[START] Light rain expected. Carry an umbrella but enjoy the sunny intervals 🌦. [END]
+[START] Keep a small umbrella handy. The weather is unpredictable 🌦. [END]
+[START] Pack a rain jacket for occasional drizzles, but also enjoy the sunshine 🌦. [END]
+[START] Uncertain weather ahead! Be flexible with your outfit 🌦. [END]
