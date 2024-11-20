@@ -1,0 +1,451 @@
+﻿country,province,latitude,longitude
+Indonesia,Aceh,5.5500,95.3167
+Indonesia,Sumatera Utara,3.5852,98.6756
+Indonesia,Sumatera Barat,-0.9471,100.4172
+Indonesia,Riau,0.5071,101.4478
+Indonesia,Kepulauan Riau,0.9167,104.4500
+Indonesia,Jambi,-1.6100,103.6100
+Indonesia,Sumatera Selatan,-2.9909,104.7566
+Indonesia,Kepulauan Bangka Belitung,-2.7400,106.4400
+Indonesia,Bengkulu,-3.8004,102.2655
+Indonesia,Lampung,-5.4296,105.2624
+Indonesia,DKI Jakarta,-6.2088,106.8456
+Indonesia,Jawa Barat,-6.9147,107.6098
+Indonesia,Banten,-6.1200,106.1500
+Indonesia,Jawa Tengah,-7.0051,110.4381
+Indonesia,DI Yogyakarta,-7.7972,110.3688
+Indonesia,Jawa Timur,-7.2504,112.7688
+Indonesia,Bali,-8.3405,115.0920
+Indonesia,Nusa Tenggara Barat,-8.5833,116.1167
+Indonesia,Nusa Tenggara Timur,-10.1772,123.6070
+Indonesia,Kalimantan Barat,-0.0263,109.3425
+Indonesia,Kalimantan Tengah,-1.6815,113.3824
+Indonesia,Kalimantan Selatan,-3.3194,114.5908
+Indonesia,Kalimantan Timur,-0.5022,117.1536
+Indonesia,Kalimantan Utara,3.3485,117.5964
+Indonesia,Sulawesi Utara,1.4748,124.8421
+Indonesia,Gorontalo,0.5470,123.0595
+Indonesia,Sulawesi Tengah,-0.8998,119.8707
+Indonesia,Sulawesi Barat,-2.6204,119.2321
+Indonesia,Sulawesi Selatan,-5.1477,119.4327
+Indonesia,Sulawesi Tenggara,-4.1299,122.1769
+Indonesia,Maluku,-3.6557,128.1900
+Indonesia,Maluku Utara,0.7893,127.3926
+Indonesia,Papua Barat Daya,-1.3483,131.5973
+Indonesia,Papua Barat,-0.8615,134.0625
+Indonesia,Papua Tengah,-3.6993,137.7305
+Indonesia,Papua Pegunungan,-3.9243,138.0837
+Indonesia,Papua Selatan,-6.0288,140.2986
+Indonesia,Papua,-4.2699,138.0804
+Singapore,Central Region,13.7367,100.5231
+Singapore,Eastern Region,12.9283,100.8781
+Singapore,Northern Region,18.7883,98.9853
+Singapore,North-East Region,16.4419,102.8350
+Singapore,Western Region,14.0204,99.5328
+Vietnam,An Giang,10.5216,105.1259
+Vietnam,Bac Giang,21.2730,106.1947
+Vietnam,Bac Kan,22.1475,105.8348
+Vietnam,Bac Lieu,9.2857,105.7243
+Vietnam,Bac Ninh,21.1861,106.0763
+Vietnam,Ben Tre,10.2415,106.3757
+Vietnam,Binh Dinh,13.7804,109.2193
+Vietnam,Binh Duong,11.1734,106.7009
+Vietnam,Binh Phuoc,11.7512,106.7235
+Vietnam,Binh Thuan,11.0906,108.1840
+Vietnam,Ca Mau,9.1769,105.1500
+Vietnam,Cao Bang,22.6657,106.2570
+Vietnam,Dak Lak,12.6675,108.0378
+Vietnam,Dak Nong,12.2139,107.6860
+Vietnam,Dien Bien,21.3860,103.0163
+Vietnam,Dong Nai,11.0681,107.1676
+Vietnam,Dong Thap,10.5353,105.6528
+Vietnam,Gia Lai,13.8079,108.1094
+Vietnam,Ha Giang,22.7662,104.9389
+Vietnam,Ha Nam,20.5832,105.9220
+Vietnam,Ha Tay,20.9484,105.7689
+Vietnam,Ha Tinh,18.3428,105.9057
+Vietnam,Hau Giang,9.7579,105.6413
+Vietnam,Hoa Binh,20.6861,105.3131
+Vietnam,Hung Yen,20.6464,106.0511
+Vietnam,Khanh Hoa,12.2388,109.1967
+Vietnam,Kien Giang,10.0124,105.0809
+Vietnam,Kon Tum,14.3498,107.9880
+Vietnam,Lai Chau,22.3964,103.4586
+Vietnam,Lang Son,21.8456,106.7570
+Vietnam,Lao Cai,22.4856,103.9707
+Vietnam,Long An,10.6956,106.2438
+Vietnam,Nam Dinh,20.4275,106.1740
+Vietnam,Nghe An,19.3337,104.8875
+Vietnam,Ninh Binh,20.2504,105.9745
+Vietnam,Ninh Thuan,11.5676,108.9876
+Vietnam,Phu Tho,21.3221,105.2058
+Vietnam,Phu Yen,13.0882,109.0929
+Vietnam,Quang Binh,17.6104,106.3487
+Vietnam,Quang Nam,15.5730,108.4740
+Vietnam,Quang Ngai,15.1205,108.7923
+Vietnam,Quang Ninh,21.0064,107.2925
+Vietnam,Quang Tri,16.7536,107.1920
+Vietnam,Soc Trang,9.6033,105.9802
+Vietnam,Son La,21.3280,103.9105
+Vietnam,Tay Ninh,11.3112,106.0983
+Vietnam,Thua Thien-Hue,16.4637,107.5909
+Vietnam,Tien Giang,10.4493,106.3429
+Vietnam,Tra Vinh,9.9377,106.3429
+Vietnam,Thanh Hoa,19.8067,105.7769
+Vietnam,Thai Binh,20.4463,106.3361
+Vietnam,Thai Nguyen,21.5928,105.8442
+Vietnam,Thua Thien Hue,16.4637,107.5909
+Vietnam,Tien Giang,10.4493,106.3429
+Vietnam,Tuyen Quang,21.8233,105.2133
+Vietnam,Vinh Long,10.2538,105.9722
+Vietnam,Yen Bai,21.7229,104.9113
+Vietnam,Hanoi,21.0285,105.8542
+Vietnam,Ho Chi Minh City,10.7626,106.6602
+Vietnam,Da Nang,16.0544,108.2022
+Vietnam,Hai Phong,20.8449,106.6881
+Vietnam,Can Tho,10.0452,105.7469
+East Timor,Dili,-8.5586,125.5736
+East Timor,Aileu,-8.7289,125.5680
+East Timor,Baucau,-8.4710,126.4588
+East Timor,Bobonaro,-9.0089,125.2871
+East Timor,Cova Lima,-9.3342,125.2286
+East Timor,Ermera,-8.8231,125.3948
+East Timor,Liquiçá,-8.5878,125.3419
+East Timor,Manatuto,-8.5114,126.0136
+East Timor,Oecusse,-9.1995,124.3436
+East Timor,Viqueque,-8.8582,126.3665
+East Timor,Ainaro,-9.0048,125.5068
+East Timor,Atauro,-8.2531,125.5781
+Laos,Attapeu,14.8011,106.8239
+Laos,Bokeo,20.3364,100.4122
+Laos,Bolikhamxai,18.3797,104.0215
+Laos,Champasak,14.8972,105.8569
+Laos,Xekong,15.7103,106.3277
+Laos,Khammouane,17.5894,104.6216
+Laos,Lao Cai,22.4856,103.9707
+Laos,Luang Namtha,20.9494,101.4010
+Laos,Luang Prabang,19.8853,102.1350
+Laos,Oudomxay,20.6908,101.9837
+Laos,Phongsaly,21.6837,102.1063
+Laos,Savannakhet,16.5573,104.7521
+Laos,Saravan,15.7167,106.4167
+Laos,Vientiane Province,18.3656,102.6832
+Laos,Xaisomboun,18.9408,103.1479
+Laos,Xieng Khouang,19.3383,103.3775
+Laos,Vientiane Prefecture,17.9757,102.6331
+Myanmar,Yangon Region,16.8409,96.1735
+Myanmar,Mandalay Region,21.9162,95.9559
+Myanmar,Rakhine State,20.1490,93.5736
+Myanmar,Shan State,21.3540,97.4593
+Myanmar,Kachin State,25.6545,96.3058
+Myanmar,Chin State,22.0000,93.5000
+Myanmar,Mon State,16.2850,97.6346
+Myanmar,Karen State,17.1754,97.6200
+Myanmar,Kayah State,19.3000,97.4333
+Myanmar,Bago Region,17.3368,96.5010
+Myanmar,Ayeyawady Region,16.5397,95.3348
+Myanmar,Magway Region,20.1543,94.9328
+Myanmar,Sagaing Region,22.0840,95.1530
+Myanmar,Tanintharyi Region,13.7595,98.9045
+Myanmar,Mon State,16.2850,97.6346
+Philippines,Abra,17.5931,120.6196
+Philippines,Agusan del Norte,8.9454,125.5301
+Philippines,Agusan del Sur,8.4443,125.8328
+Philippines,Aklan,11.8191,122.3509
+Philippines,Albay,13.2920,123.5827
+Philippines,Antique,11.0412,122.0475
+Philippines,Apayao,18.0015,121.3395
+Philippines,Aurora,15.8202,121.5608
+Philippines,Basilan,6.5851,122.0830
+Philippines,Bataan,14.6937,120.4022
+Philippines,Batanes,20.4500,121.9700
+Philippines,Batangas,13.7565,121.0583
+Philippines,Biliran,11.5644,124.4526
+Philippines,Benguet,16.4380,120.5916
+Philippines,Bohol,9.8500,124.1830
+Philippines,Bukidnon,7.9087,124.9997
+Philippines,Bulacan,14.7595,120.8980
+Philippines,Cagayan,17.6151,121.9753
+Philippines,Camarines Norte,14.0609,122.9403
+Philippines,Camarines Sur,13.4212,123.4365
+Philippines,Camiguin,9.2223,124.7379
+Philippines,La Union,15.7586,120.3140
+Philippines,Capiz,11.5163,122.7466
+Philippines,Catanduanes,13.4275,124.2281
+Philippines,Cavite,14.4402,120.9155
+Philippines,Cebu,10.3157,123.8854
+Philippines,Compostela Valley,7.4814,125.9454
+Philippines,Cotabato,7.2055,124.2552
+Philippines,Davao de Oro,7.4769,125.6610
+Philippines,Davao del Norte,7.4135,125.7432
+Philippines,Davao del Sur,6.9926,126.0351
+Philippines,Davao Oriental,7.4735,126.2125
+Philippines,Dinagat Islands,9.5344,125.5297
+Philippines,Eastern Samar,11.5222,125.3586
+Philippines,Guimaras,10.6896,122.5322
+Philippines,Ifugao,16.7790,121.1242
+Philippines,Ilocos Norte,18.1750,120.7130
+Philippines,Ilocos Sur,17.0780,120.4577
+Philippines,Iloilo,10.7263,122.5620
+Philippines,Isabela,16.0670,121.8886
+Philippines,Kalinga,17.0967,121.1511
+Philippines,Kamiseta,13.1758,122.5573
+Philippines,Laguna,14.3384,121.5142
+Philippines,Lanao del Norte,8.0060,123.9845
+Philippines,Lanao del Sur,7.5351,124.3114
+Philippines,La Union,15.7586,120.3140
+Philippines,Leyte,10.6870,124.9433
+Philippines,Maguindanao del Norte,7.2744,124.2456
+Philippines,Maguindanao del Sur,6.8792,124.4569
+Philippines,Marinduque,13.4449,121.8569
+Philippines,Masbate,12.0323,123.6346
+Philippines,Metro Manila,14.5995,120.9842
+Philippines,Misamis Occidental,8.1708,123.8428
+Philippines,Misamis Oriental,8.2424,124.8182
+Philippines,Mountain Province,16.0973,120.6029
+Philippines,Negros Occidental,10.7360,122.9504
+Philippines,Negros Oriental,9.3145,123.3076
+Philippines,Northern Samar,12.5015,124.5395
+Philippines,North Cotabato,7.1084,124.7085
+Philippines,Nueva Ecija,15.5063,120.9603
+Philippines,Nueva Vizcaya,16.1634,121.1516
+Philippines,Occidental Mindoro,12.3830,120.8234
+Philippines,Oriental Mindoro,13.0107,121.5200
+Philippines,Palawan,9.8360,118.7385
+Philippines,Pampanga,15.0841,120.7064
+Philippines,Pangasinan,15.8842,119.9505
+Philippines,Quezon,14.0900,121.7687
+Philippines,Quirino,16.3126,121.6895
+Philippines,Rizal,14.5833,121.1645
+Philippines,Romblon,12.5951,121.2279
+Philippines,Sarangani,5.9390,125.1372
+Philippines,Samar,12.1695,124.7653
+Philippines,Siquijor,9.2147,123.5300
+Philippines,Sorsogon,12.9713,124.0907
+Philippines,South Cotabato,6.6525,124.5800
+Philippines,Southern Leyte,9.9767,124.8795
+Philippines,Sultan Kudarat,6.5045,124.7524
+Philippines,Surigao del Norte,9.7490,125.4674
+Philippines,Surigao del Sur,9.2484,126.0607
+Philippines,Tarlac,15.4845,120.5977
+Philippines,Tawi-Tawi,5.0085,119.7537
+Philippines,Zambales,14.8780,119.9610
+Philippines,Zamboanga del Norte,8.1466,122.0783
+Philippines,Zamboanga del Sur,7.5364,123.4659
+Philippines,Zamboanga Sibugay,7.5766,122.3707
+Brunei,Brunei-Muara,4.8904,114.9426
+Brunei,Belait,4.5042,114.5397
+Brunei,Tutong,4.5833,114.6333
+Brunei,Temburong,4.3484,115.0707
+Cambodia,Banteay Meanchey,13.6667,102.9833
+Cambodia,Battambang,13.0950,103.2110
+Cambodia,Kampong Cham,12.2200,105.4500
+Cambodia,Kampong Chhnang,12.2500,104.6667
+Cambodia,Kampong Speu,11.4522,104.4563
+Cambodia,Kampong Thom,12.6999,104.8840
+Cambodia,Kampot,10.6130,104.1780
+Cambodia,Kandal,11.4284,104.8214
+Cambodia,Kep,10.4983,104.3167
+Cambodia,Koh Kong,11.2833,102.9833
+Cambodia,Kratie,12.5070,106.0195
+Cambodia,Mondulkiri,12.5170,107.0730
+Cambodia,Oddar Meanchey,13.7822,103.4113
+Cambodia,Pailin,11.5982,102.6097
+Cambodia,Phnom Penh,11.5624,104.9330
+Cambodia,Preah Sihanouk,10.6167,103.5333
+Cambodia,Preah Vihear,13.8043,104.8833
+Cambodia,Pursat,12.5667,103.7500
+Cambodia,Ratanakiri,13.5095,106.9872
+Cambodia,Siem Reap,13.4106,103.8660
+Cambodia,Prey Veng,11.5144,105.3497
+Cambodia,Stung Treng,13.5672,106.0000
+Cambodia,Svay Rieng,11.5333,105.7500
+Cambodia,Takeo,10.9992,104.7895
+Cambodia,Tbong Khmum,12.1744,106.1444
+Malaysia,Johor,1.9100,102.8250
+Malaysia,Kedah,6.1250,100.3644
+Malaysia,Kelantan,5.2967,102.2400
+Malaysia,Malacca,2.1896,102.2500
+Malaysia,Negeri Sembilan,2.7250,102.1583
+Malaysia,Pahang,3.6731,102.1940
+Malaysia,Penang,5.4167,100.3350
+Malaysia,Perak,4.5970,101.0900
+Malaysia,Perlis,6.4000,100.2000
+Malaysia,Sabah,5.9800,116.1000
+Malaysia,Sarawak,1.5531,110.3582
+Malaysia,Selangor,3.0730,101.5183
+Malaysia,Terengganu,4.4550,103.0686
+Malaysia,Kuala Lumpur,3.1390,101.6869
+Malaysia,Labuan,5.2833,115.2000
+Malaysia,Putrajaya,2.9270,101.6540
+Thailand,Bangkok,13.7563,100.5018
+Thailand,Amnat Charoen,15.8583,104.6397
+Thailand,Ang Thong,14.5873,100.4517
+Thailand,Bueng Kan,18.3514,103.6394
+Thailand,Buri Ram,15.1928,103.1110
+Thailand,Chachoengsao,13.6800,101.0333
+Thailand,Chai Nat,15.1956,100.1517
+Thailand,Chaiyaphum,15.8000,102.0200
+Thailand,Chanthaburi,12.6089,102.1050
+Thailand,Chiang Mai,18.7883,98.9853
+Thailand,Chiang Rai,19.9125,99.8260
+Thailand,Chonburi,13.3000,100.9833
+Thailand,Chumphon,10.4994,99.1858
+Thailand,Kalasin,16.4294,102.8481
+Thailand,Kamphaeng Phet,16.5525,99.5028
+Thailand,Kanchanaburi,14.0150,99.5261
+Thailand,Khon Kaen,16.4300,102.8324
+Thailand,Krabi,8.0863,98.9063
+Thailand,Lampang,18.2900,99.5083
+Thailand,Lamphun,18.5863,98.9189
+Thailand,Loei,17.4886,101.7333
+Thailand,Lopburi,14.7986,100.6100
+Thailand,Mae Hong Son,19.3000,97.9667
+Thailand,Maha Sarakham,15.8819,104.4669
+Thailand,Mukdahan,16.5392,104.7306
+Thailand,Nakhon Nayok,14.3792,101.2203
+Thailand,Nakhon Pathom,13.8194,100.0672
+Thailand,Nakhon Phanom,17.3936,104.6342
+Thailand,Nakhon Ratchasima,15.0000,102.0833
+Thailand,Nakhon Sawan,15.6856,100.0917
+Thailand,Nakhon Si Thammarat,8.4333,99.9500
+Thailand,Nan,18.7739,100.7739
+Thailand,Narathiwat,6.4250,101.8211
+Thailand,Nong Bua Lamphu,17.3800,102.3833
+Thailand,Nong Khai,17.8786,102.7425
+Thailand,Nonthaburi,13.8590,100.5189
+Thailand,Pathum Thani,14.0086,100.5200
+Thailand,Pattani,6.8792,101.2503
+Thailand,Phang Nga,8.4380,98.5661
+Thailand,Phatthalung,7.6171,100.0328
+Thailand,Phayao,19.1614,99.9078
+Thailand,Phetchabun,16.4200,101.1586
+Thailand,Phetchaburi,12.9689,99.8139
+Thailand,Phichit,16.4400,100.3233
+Thailand,Phitsanulok,16.8278,100.2647
+Thailand,Phra Nakhon Si Ayutthaya,14.3545,100.5682
+Thailand,Phrae,18.1350,100.1517
+Thailand,Phuket,7.8804,98.3923
+Thailand,Prachinburi,14.0703,101.3887
+Thailand,Prachuap Khiri Khan,11.7919,99.8009
+Thailand,Ranong,9.9596,98.6319
+Thailand,Ratchaburi,13.5462,99.8167
+Thailand,Rayong,12.6773,101.2812
+Thailand,Roi Et,16.0872,103.6533
+Thailand,Sa Kaeo,13.8131,102.0853
+Thailand,Sakon Nakhon,17.1750,104.1496
+Thailand,Samut Prakan,13.5990,100.6054
+Thailand,Samut Sakhon,13.5500,100.0150
+Thailand,Samut Songkhram,13.5000,99.9700
+Thailand,Saraburi,14.5361,100.8977
+Thailand,Satun,6.6141,100.0657
+Thailand,Sing Buri,14.8919,100.3947
+Thailand,Sisaket,15.0997,104.3369
+Thailand,Songkhla,7.1892,100.5987
+Thailand,Sukhothai,17.0034,99.8243
+Thailand,Suphanburi,14.4743,100.1145
+Thailand,Surat Thani,9.1400,99.3192
+Thailand,Surin,14.8786,103.4932
+Thailand,Tak,16.8773,99.1335
+Thailand,Trang,7.5541,99.6125
+Thailand,Trat,12.2396,102.5112
+Thailand,Ubon Ratchathani,15.2430,104.8536
+Thailand,Udon Thani,17.4136,102.7850
+Thailand,Uthai Thani,14.2295,100.2172
+Thailand,Uttaradit,17.6174,100.0856
+Thailand,Yala,6.5417,101.2875
+Thailand,Yasothon,15.7885,104.1478
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
