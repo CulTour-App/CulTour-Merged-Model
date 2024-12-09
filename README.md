@@ -1,1 +1,1 @@
-# CulTour
+# Merged Model for Mobile Application "CulTour"
